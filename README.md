@@ -1,6 +1,7 @@
 ## Olá, Eu sou a Gabriela Vitória!
 
-<p align="left">🎓 Estudando Ciência da Computação na Universidade Federal do ABC - UFABC </p>
+<p align="left">🎓 Cursando o 2° semestre de Ciência da Computação </p>
+<p align="left">🤍 Universidade Federal do ABC - UFABC </p>
 <p align="left">💭 Atualmente aprendendo Phyton e Javascript </p>
 <p align="left">🎀 Me interesso pela área de FrontEnd </p>
 
